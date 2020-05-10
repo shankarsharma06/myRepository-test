@@ -1,0 +1,9 @@
+#First git file
+package com.test.hello
+class Hello{
+public static void main(string args[])
+{
+system.out.println("shankar sharma");
+}
+}
+
